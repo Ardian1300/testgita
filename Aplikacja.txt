@@ -1,5 +1,13 @@
-   public void logowanie() {
+   public void logowanie() 
+	{
         System.out.println("Podaj nazwę użytkownika");
+        System.out.println("Podaj hasło");
+        System.out.println("Kliknij na przycisk zaloguj");
+    }
+
+  public void logowanieGoogle() 
+	{
+        System.out.println("Podaj adres email");
         System.out.println("Podaj hasło");
         System.out.println("Kliknij na przycisk zaloguj");
     }
