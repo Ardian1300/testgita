@@ -3,11 +3,19 @@
         System.out.println("Podaj nazwę użytkownika");
         System.out.println("Podaj hasło");
         System.out.println("Kliknij na przycisk zaloguj");
-    }
 
   public void logowanieGoogle() 
 	{
         System.out.println("Podaj adres email");
         System.out.println("Podaj hasło");
         System.out.println("Kliknij na przycisk zaloguj");
-    }
+   	}
+
+
+  public void logowanieMicrosoft() 		
+	{
+        System.out.println("Podaj email dla Microsoft");
+        System.out.println("Podaj hasło");
+        System.out.println("Kliknij na przycisk zaloguj");
+    	}
+
